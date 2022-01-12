@@ -1,4 +1,15 @@
 body {
-    background-color: #eee;
+    background-color: #D4ECDD;
     font-family: monospace;
+    color: #345B63;
+}
+
+hr{
+    border-style: none;
+    border-top: dashed;
+}
+
+img {
+    width: 250px;
+    height: auto;
 }
