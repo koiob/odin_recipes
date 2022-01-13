@@ -1,9 +1,8 @@
 body {
     background-color: rgb(241, 239, 239);
-    font-family: 'Courier New',monospace;
+    font-family: VT323, 'Courier New',monospace;
     color: #252525;
-    font-size: 16px;
-    font-weight: bold;
+    font-size: 24px;
 }
 
 .desc {
@@ -13,6 +12,8 @@ body {
 hr{
     border-style: none;
     border-top: dashed;
+    border-width: 0.2em;
+    width: 85%;
 }
 
 img {
@@ -25,4 +26,8 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 30%;
+}
+
+ul, ol {
+    margin-left: 1%;
 }
