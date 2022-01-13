@@ -1,8 +1,13 @@
 body {
-    background-color: #D4ECDD;
-    font-family: monospace;
-    color: #345B63;
+    background-color: rgb(241, 239, 239);
+    font-family: 'Courier New',monospace;
+    color: #252525;
     font-size: 16px;
+    font-weight: bold;
+}
+
+.desc {
+    text-align: center;
 }
 
 hr{
@@ -13,4 +18,11 @@ hr{
 img {
     width: 250px;
     height: auto;
+}
+
+.imag {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
 }
